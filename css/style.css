@@ -60,7 +60,7 @@ body a:focus {
 }
 
 .header-agileinfo {
-    background: url(../images/bg.jpg) no-repeat center;
+    background: url(../images/header1a.jpg) no-repeat center;
     background-size: cover;
     min-height: 730px;
 }
@@ -1506,7 +1506,7 @@ span.icon_g_plus {
 /* skills */
 
 .skills {
-    background: url(../images/Skills.jpg) no-repeat center;
+    background: url(../images/Skills1.JPG) no-repeat center;
     background-size: cover;
 }
 
