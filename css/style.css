@@ -144,7 +144,7 @@ nav ul li:nth-child(6) {
 }
 
 .navbar-default {
-    background-color: #fff;
+    background-color: dimgrey;
     border: none;
 }
 
@@ -1918,7 +1918,7 @@ span.icon_g_plus {
     .navbar-default .navbar-toggle:hover,
     .navbar-default .navbar-toggle:focus,
     .navbar-default .navbar-toggle {
-        background-color: #eb5273;
+        background-color: indianred;
         color: #fff;
         margin: 0;
     }
