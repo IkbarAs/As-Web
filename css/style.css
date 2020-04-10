@@ -1412,6 +1412,7 @@ ul.w3-links li a i.fa:hover {
 
 .footer-social ul li {
     display: inline-block;
+	color: #5a5c58;
 }
 
 span.icon_twitter {
@@ -1452,7 +1453,7 @@ span.icon_g_plus {
 }
 
 .footer-social ul li a {
-    color: #212121;
+    color: #5a5c58;
 }
 
 .footer-social ul li:hover a {
