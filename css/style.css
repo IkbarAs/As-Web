@@ -548,7 +548,7 @@ figcaption.port-gird-caption-agileits_w3layouts:hover {
 
 .filtr-item:nth-child(4),
 .filtr-item:nth-child(8) {
-    border-right: 11px solid #9bbdd8;
+    border-right: 11px solid rgb(46, 46, 46, 46);
     width: 25.55%;
 }
 
