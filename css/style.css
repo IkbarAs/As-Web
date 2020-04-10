@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 body {
     margin: 0;
-    background: #fff;
+    background: dimgrey;
     font-family: 'Barlow Condensed', sans-serif;
 }
 
@@ -35,7 +35,7 @@ p {
     margin: 0;
     line-height: 1.8;
     font-size: 1.2em;
-    color: #000;
+    color: white;
     letter-spacing: 1px;
 }
 
@@ -119,23 +119,23 @@ nav ul li a:hover {
 }
 
 nav ul li:nth-child(1) {
-    background: #eb5273;
+    background: steelblue;
 }
 
 nav ul li:nth-child(2) {
-    background: #00b9ef;
+    background: darkseagreen;
 }
 
 nav ul li:nth-child(3) {
-    background: #fc7e46;
+    background: skyblue;
 }
 
 nav ul li:nth-child(4) {
-    background: #4ddba6;
+    background: indianred;
 }
 
 nav ul li:nth-child(5) {
-    background: #00b9ef;
+    background: darkorange;
 }
 
 nav ul li:nth-child(6) {
@@ -327,7 +327,7 @@ h3.pos-title1 {
     font-size: 4em;
     text-transform: uppercase;
     margin-bottom: 0.5em;
-    color: #eb5273;
+    color: steelblue;
     text-align: center;
     font-weight: 300;
 }
@@ -340,8 +340,8 @@ ul.about-list li {
 
 a.wthree-.about-link {
     color: #fff;
-    border: 1px solid #eb5273;
-    background: #eb5273;
+    border: 1px solid indianred;
+    background: indianred;
     border-radius: 0;
     width: 100%;
     padding: 10px 20px;
@@ -363,7 +363,7 @@ a.wthree-.about-link {
     padding: 2em;
     -webkit-box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
     -moz-box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
-    box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
+    box-shadow: 5px 10px 10px 0px rgba(46, 46, 46, 46);
     border-top: 5px solid;
 }
 
@@ -534,7 +534,7 @@ figcaption.port-gird-caption-agileits_w3layouts:hover {
 }
 
 .filtr-item {
-    border: solid #9bbdd8;
+    border: solid rgb(46, 46, 46, 46);
     border-width: 10px 0px 0px 10px;
 }
 
@@ -542,7 +542,7 @@ figcaption.port-gird-caption-agileits_w3layouts:hover {
 .filtr-item:nth-child(6),
 .filtr-item:nth-child(7),
 .filtr-item:nth-child(8) {
-    border-bottom: 12px solid #9bbdd8;
+    border-bottom: 12px solid rgb(46, 46, 46, 46);
 }
 
 .filtr-item:nth-child(4),
@@ -837,7 +837,7 @@ div#services {
     margin-left: 6em;
     -webkit-box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
     -moz-box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
-    box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
+    box-shadow: 5px 10px 10px 0px rgba(46, 46, 46, 46);
 }
 
 .serv-left {
